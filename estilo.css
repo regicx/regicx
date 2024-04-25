@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(230, 125, 230);
+}
+img {
+    width: 300px;
+    border-style: solid;
+    border-color: rgb(223, 223, 124)
+}
+h1 {
+    text-align: center;
+}
+h2 { 
+    text-align: center;
+    color: rgb(223, 223, 124);
+}
+.foto{float: leftS;}
